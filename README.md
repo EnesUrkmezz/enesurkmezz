@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/enesurkmez/" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png(https://seeklogo.com/vector-logo/249364/linkedin-icon)" alt="enesurkmez" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/enesurkmez/" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="enesurkmez" height="30" width="30" /></a>
 <a href="https://discord.com/users/504309731452518401" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="enes discord" height="30" width="26" /></a>
 </p>
 
