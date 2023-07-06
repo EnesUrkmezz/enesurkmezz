@@ -1,10 +1,10 @@
-<h2 align="center">Hello there! 🚀 I'm Front-end Developer from Istanbul / Turkey
+<h2 align="center">Hello there! 🚀 I'm DevOps Engineer and Front-end Developer from Istanbul / Turkey
 </h2>
 
 
-- 👾  I’m currently working with **React.js and anything related with JavaScript.**
+- 👾  I’m currently working with **Kubernetes-Docker-KubeSphere and anything related with JavaScript.**
 
-- 🔭 I’m currently working on Jeton Digital 
+- 🔭 I’m currently working on KubeSphere 
 
 - 📫  How to reach me **enessurkmez@gmail.com**
 
